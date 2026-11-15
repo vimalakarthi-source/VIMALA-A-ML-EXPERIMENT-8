@@ -5,7 +5,7 @@
 
 
 
-## AIM : 
+## AIM:
 
 
 
@@ -21,7 +21,7 @@ Train RandomForest and AdaBoost classifiers on the breast cancer dataset and com
 
 
 
-## ALGORITHM : 
+## ALGORITHM:
 
 
 
